@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/siddh/mlops/datascienceproject/mlruns/0/models/m-c6c5b558d43342fa8720cad10c41f1e1/artifacts
+creation_timestamp: 1750132589025
+experiment_id: '0'
+last_updated_timestamp: 1750132593016
+model_id: m-c6c5b558d43342fa8720cad10c41f1e1
+model_type: null
+name: model
+source_run_id: 783d449daf9c4831869a19bd23452556
+status: 2
+status_message: null
